@@ -17,7 +17,7 @@ want to you can go check it out and use it for your game!!!
 
 ---The game as of now consists of 4 levels, with different traps you should go by.
 
-
+--------------------------------------
 
 ===============FUTURE UPDATES=========================
 
@@ -36,3 +36,5 @@ want to you can go check it out and use it for your game!!!
 *inventory system
 
 *potion system
+
+--------------------------------------
