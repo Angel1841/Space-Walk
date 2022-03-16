@@ -11,7 +11,7 @@ want to you can go check it out and use it for your game!!!
 
 **ACKNOWLEDGEMENTS**
 
-**Graphic assets by: https://pixelfrog-assets.itch.io/**
+---**Graphic assets by: https://pixelfrog-assets.itch.io/**
 
 
 ---------------------------------------
