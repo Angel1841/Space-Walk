@@ -1,6 +1,6 @@
 # Space-Walk
 
-=========================IMPORTANT=========================
+                       IMPORTANT
 Space Walk is a 2D Platformer game made with the Unity Game Engine.
 
 !!!The images and animation assets that are used in it are not made by me and are from the Unity Asset Store. The assets's name in the store is Pixel Adventure 1, if you 
@@ -8,7 +8,7 @@ want to you can go check it out and use it for your game!!!
 
 ---------------------------------------
 
-======================GAME INFO===========================
+                      GAME INFO
 
 
 ---Your goal in the game is to bypass all the traps and mobs while you collect all the kiwis on your way.
@@ -19,7 +19,7 @@ want to you can go check it out and use it for your game!!!
 
 --------------------------------------
 
-===============FUTURE UPDATES=========================
+                    FUTURE UPDATES
 
 *more mobs(harder to bypass with more functions)
 
